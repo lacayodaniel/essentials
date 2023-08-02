@@ -1,0 +1,15 @@
+#check version of both Node and NPM
+node --version
+npm --version
+
+#npm install react by following command
+npm install --save react react-dom
+
+#create new project by react following command
+npx create-react-app my-react-project
+
+#go to project
+cd my-react-project
+
+#start server
+npm start
